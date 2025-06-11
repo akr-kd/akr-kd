@@ -1,7 +1,7 @@
 # ✦ Akira Kudo ｜ Web Director × Analytics Explorer 🛰️
 
 Hey there! I'm Akira —  
-a Web Director and certified Web Analytics Specialist based in **Oita, Japan** 🇯🇵
+a Web Director and certified Senior Web Analytics Consultant based in **Oita, Japan** 🇯🇵
 
 I turn ideas into structure, data into insight,  
 and websites into *purposeful tools* that move businesses forward.
