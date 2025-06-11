@@ -8,9 +8,9 @@ I bridge the gap between *creative* and *analytical* to build websites that trul
 
 ## 🧭 About Me
 
-- 💼 **6 years** in B2B/B2C Sales, **4+ years** as a Web Director  
-- 📊 Certified **Advanced Web Analytics Specialist**（上級ウェブ解析士）  
-- 🧩 Specialize in **GA4**, **GTM**, **Looker Studio**, and **Web Production**  
+- 💼 **6 years** in B2B Sales, **4+ years** as a Web Director  
+- 📊 Certified **Senior Web Analytics Consultant**  
+- 🧩 Specialize in **Web Production**, **GA4**, **GTM**, and **Looker Studio**
 - 🧑‍💻 Passionate about storytelling, branding, and impactful UX/UI
 
 ---
