@@ -45,6 +45,6 @@ I bridge the gap between *creative* and *analytical* to build websites that trul
 
 ## 📫 How to reach me
 
-- ✉️ [your-email@example.com](mailto:ak.kudo14@gmail.com)
+- ✉️ [ak.kudo14@gmail.com](mailto:ak.kudo14@gmail.com)
 
 ---
