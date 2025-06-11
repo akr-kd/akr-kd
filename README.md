@@ -1,17 +1,32 @@
-## 👋 Hi there! I'm Akira Kudo 🌟
+# ✦ Akira Kudo ｜ Web Director × Analytics Explorer 🛰️
 
-I'm a **Web Director** and **Web Analytics Specialist** based in **Oita, Japan**.  
-With a passion for thoughtful design, meaningful data, and helping small businesses shine,  
-I bridge the gap between *creative* and *analytical* to build websites that truly work.
+Hey there! I'm Akira —  
+a Web Director and certified Web Analytics Specialist based in **Oita, Japan** 🇯🇵
+
+I turn ideas into structure, data into insight,  
+and websites into *purposeful tools* that move businesses forward.
+
+I'm also building **Polasera**,  
+a brand inspired by Polaris 🌟 to gently guide creators toward clarity and confidence.
 
 ---
 
-## 🧭 About Me
+## 🛠️ What I Do
 
-- 💼 **6 years** in B2B Sales, **4+ years** as a Web Director  
-- 📊 Certified **Senior Web Analytics Consultant**  
-- 🧩 Specialize in **Web Production**, **GA4**, **GTM**, and **Looker Studio**
-- 🧑‍💻 Passionate about storytelling, branding, and impactful UX/UI
+### 🧭 Direction
+- Project planning & creative management  
+- Content structuring / wireframes / UX mapping  
+- Copywriting with purpose
+
+### 📊 Analytics
+- GA4 implementation & auditing  
+- Tag management with GTM  
+- Looker Studio dashboards  
+
+### 💻 Dev Touches
+- HTML / CSS / JS basics  
+- WordPress CMS control  
+- Docker for local environments
 
 ---
 
@@ -35,11 +50,11 @@ I bridge the gap between *creative* and *analytical* to build websites that trul
 
 ---
 
-## 📘 Current Focus
+## 🎯 Current Focus
 
-- 🧪 Exploring web automation using AI tools × analytics
-- 💡 Building `Polasera` as a direction brand for small creators
-- 📈 Helping businesses understand and improve their digital data
+- ✨ Growing **Polasera** — creative support with a strategic core  
+- 🔍 Simplifying GA4 for small teams  
+- 🤖 Experimenting with automation x web x AI
 
 ---
 
