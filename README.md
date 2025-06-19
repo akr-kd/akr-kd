@@ -6,9 +6,6 @@ Web Director and certified Senior Web Analytics Consultant based in **Oita, Japa
 I turn ideas into structure, data into insight,  
 and websites into *purposeful tools* that move businesses forward.
 
-I'm also building **Polasera**,  
-a brand inspired by Polaris 🌟 to gently guide creators toward clarity and confidence.
-
 ---
 
 ## 🛠️ What I Do
@@ -26,7 +23,7 @@ a brand inspired by Polaris 🌟 to gently guide creators toward clarity and con
 ### 💻 Dev Touches
 - HTML / CSS / JS basics  
 - WordPress CMS control  
-- Docker for local environments
+- Development in local environments
 
 ---
 
@@ -41,20 +38,11 @@ a brand inspired by Polaris 🌟 to gently guide creators toward clarity and con
 - GA4 custom tracking & reporting  
 - Google Tag Manager (GTM) implementation  
 - Looker Studio dashboard creation  
-- Google Apps Script automation
 
 ### Development
 - HTML / CSS / JavaScript (basic)  
 - WordPress CMS operation  
 - Docker for local environments
-
----
-
-## 🎯 Current Focus
-
-- ✨ Growing **Polasera** — creative support with a strategic core  
-- 🔍 Simplifying GA4 for small teams  
-- 🤖 Experimenting with automation x web x AI
 
 ---
 
