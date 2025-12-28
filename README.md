@@ -1,52 +1,37 @@
-# ✦ Akira Kudo ｜ Web Director × Analytics Explorer 🛰️
+# 工藤 彰（Akira Kudo） ｜ Webディレクター／上級ウェブ解析士 🛰️
 
-Hi there!
-Web Director and certified Senior Web Analytics Consultant based in **Oita, Japan** 🇯🇵
+大分県を拠点に活動するWebディレクター。
+構想を整理し、データを読み解き、Webを“成果につながる仕組み”へ整えることを専門としています。
 
-I turn ideas into structure, data into insight,  
-and websites into *purposeful tools* that move businesses forward.
-
----
-
-## 🛠️ What I Do
-
-### 🧭 Direction
-- Project planning & creative management  
-- Content structuring / wireframes / UX mapping  
-- Copywriting with purpose
-
-### 📊 Analytics
-- GA4 implementation & auditing  
-- Tag management with GTM  
-- Looker Studio dashboards  
-
-### 💻 Dev Touches
-- HTML / CSS / JS basics  
-- WordPress CMS control  
-- Development in local environments
+制作・運用・改善の各フェーズにおいて、
+Gitによる変更管理や、AIを活用した分析・設計支援も取り入れながら、
+再現性のあるWeb改善と意思決定を支援します。
 
 ---
 
-## 🔧 Skills & Tools
+## 🛠️ できること
 
-### Web Direction
-- Client-facing project management
-- Content architecture / wireframing
-- Copywriting / editorial direction
+### 🧭 Webディレクション／設計
+- サイト全体の企画設計・進行管理 
+- コンテンツ構成設計、ワイヤーフレーム作成 
+- ユーザー導線・UX設計
+- コピーライティング・文章設計
 
-### Analytics
-- GA4 custom tracking & reporting  
-- Google Tag Manager (GTM) implementation  
-- Looker Studio dashboard creation  
+### 📊 アクセス解析・データ活用
+- GA4の導入・設定・診断
+- Google Tag Manager（GTM）による計測設計
+- Looker Studioによるレポート・ダッシュボード作成
 
-### Development
-- HTML / CSS / JavaScript (basic)  
-- WordPress CMS operation  
-- Docker for local environments
+### 💻 実装・運用まわり
+- HTML / CSS / JavaScript（基礎理解）
+- WordPressの構築・運用・管理
+- Git（GitHub）を用いたバージョン管理
+- ローカル開発環境（Docker）での検証・管理
+- 制作会社・エンジニアとの橋渡し
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact
 
 - ✉️ [ak.kudo14@gmail.com](mailto:ak.kudo14@gmail.com)
 
