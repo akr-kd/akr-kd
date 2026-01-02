@@ -107,7 +107,7 @@ Webを「つくること」そのものではなく、「事業の目的に対�
 
 <br>
 
-[![Website](https://img.shields.io/badge/Official_Site-Polasera-004643?style=for-the-badge&logo=safari)](https://polasera.com)
+[![Website](https://img.shields.io/badge/Official_Site-Polasera-004643?style=for-the-badge&logo=safari)](https://polasera.com?utm_source=github&utm_medium=profile)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ak.kudo14@gmail.com)
 
 <br>
